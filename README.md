@@ -1,5 +1,6 @@
 # UI-UX-Experiment5
-
+# NAME: SHANMUGAKARTHIK G
+# REG.NO: 212223220105
 ## Aim:
 To Present 2 different UX project scenarios (e.g., designing a health app, an e-commerce site, or a government service portal).
 ## Algorithm:
